@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="encryption-tool-logo.png" alt="Encryption and Decryption Tool Logo">
+  <img src="H.png" alt="Encryption and Decryption Tool Logo">
 </p>
 
 <h1 align="center" style="color: green;">Encryption and Decryption Tool</h1>
@@ -29,7 +29,7 @@ This tool provides a command-line interface and a web-based interface for encryp
 
 To use the tool locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/encryption-tool.git`
+1. Clone the repository: `git clone https://github.com/your-username/H-CRYPTOGRAPHY.git`
 2. Install any required dependencies: `pip install -r requirements.txt`
 
 ---
@@ -42,11 +42,7 @@ To use the tool locally, follow these steps:
 2. Navigate to the project directory.
 3. Run the command: `python main.py`
 
-#### Web Interface
 
-1. Open the `index.html` file in a web browser.
-
----
 
 ## Contributing
 
@@ -64,19 +60,12 @@ This project is licensed under the MIT License. See the <span style="color: gree
 
 ## Credits
 
-This tool was created by <span style="color: green;">[Your Name](https://github.com/your-username)</span>.
+This tool was created by <span style="color: green;">[MR WHITE HIRU OFC](https://github.com/MrWhiteHiru)</span>.
 
 ---
 
-## Acknowledgments
 
-- <span style="color: green;">[MD5 implementation](https://github.com/md5crypt/md5crypt)</span>
-- <span style="color: green;">[Base32 encoding/decoding implementation](https://github.com/delight-im/Python-Base32)</span>
-- <span style="color: green;">[Base64 encoding/decoding implementation](https://github.com/python/cpython/blob/main/Lib/base64.py)</span>
-- <span style="color: green;">[ASCII Art Generator](http://patorjk.com/software/taag/)</span>
-
----
 
 ## Support
 
-If you have any questions, issues, or feature requests, please contact <span style="color: green;">[Your Name](mailto:your-email@example.com)</span>.
+If you have any questions, issues, or feature requests, please contact <span style="color: green;">[MR WHITE HIRU OFC](mailto:hiruvada@gmail.com)</span>.
