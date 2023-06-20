@@ -2,13 +2,13 @@
   <img src="H.png" alt="Encryption and Decryption Tool Logo">
 </p>
 
-<h1 align="center" style="color: green;">Encryption and Decryption Tool</h1>
+<h1 align="center" style="color:#27d942;">Encryption and Decryption Tool</h1>
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 > A versatile encryption and decryption tool with support for MD5 hashing, Base32, and Base64 encoding/decoding.
 
-This tool provides a command-line interface and a web-based interface for encrypting and decrypting text using various algorithms. It supports MD5 hashing, Base32 encoding/decoding, and Base64 encoding/decoding.
+This tool provides a command-line interface for encrypting and decrypting text using various algorithms. It supports MD5 hashing, Base32 encoding/decoding, and Base64 encoding/decoding.
 
 ---
 
