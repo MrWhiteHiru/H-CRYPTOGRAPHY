@@ -29,7 +29,7 @@ This tool provides a command-line interface for encrypting and decrypting text u
 
 To use the tool locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/H-CRYPTOGRAPHY.git`
+1. Clone the repository: `git clone https://github.com/MrWhiteHiru/H-CRYPTOGRAPHY.git`
 2. Install any required dependencies: `pip install -r requirements.txt`
 
 ---
